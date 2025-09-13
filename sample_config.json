@@ -3,7 +3,7 @@
     "streams": [
       {
         "id": "main",
-        "name": "Impact Radio Main",
+        "name": "Impact Radio",
         "url": "https://dc4.serverse.com/proxy/pearlfm/stream.mp3",
         "description": "Main radio stream with news and talk shows",
         "genre": "News & Talk",
@@ -105,6 +105,7 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
 
 
 
