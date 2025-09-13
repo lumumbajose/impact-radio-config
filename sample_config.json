@@ -1,0 +1,91 @@
+{
+  "radio": {
+    "streams": [
+      {
+        "id": "main",
+        "name": "Impact Radio Main",
+        "url": "https://stream.glowfm.nl/glowfm.aac",
+        "description": "Main radio stream with news and talk shows",
+        "genre": "News & Talk",
+        "isActive": true
+      },
+      {
+        "id": "backup",
+        "name": "Impact Radio Backup",
+        "url": "https://stream.example.com/backup",
+        "description": "Backup radio stream",
+        "genre": "Mixed",
+        "isActive": true
+      }
+    ],
+    "defaultStream": "main",
+    "autoPlay": true,
+    "showMetadata": true
+  },
+  "tv": {
+    "streams": [
+      {
+        "id": "main",
+        "name": "Impact TV Main",
+        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
+        "description": "Main TV stream with live programming",
+        "category": "Live TV",
+        "isActive": true
+      },
+      {
+        "id": "backup",
+        "name": "Impact TV Backup",
+        "url": "https://stream.example.com/tv/backup",
+        "description": "Backup TV stream",
+        "category": "Live TV",
+        "isActive": true
+      }
+    ],
+    "defaultStream": "main",
+    "autoPlay": true,
+    "showControls": true
+  },
+  "webview": {
+    "urls": [
+      {
+        "id": "main",
+        "name": "Impact Website",
+        "url": "https://www.follow256.com",
+        "description": "Main website with news and information",
+        "category": "Official",
+        "isActive": true
+      },
+      {
+        "id": "news",
+        "name": "News Portal",
+        "url": "https://news.example.com",
+        "description": "Latest news and updates",
+        "category": "News",
+        "isActive": true
+      }
+    ],
+    "defaultUrl": "main",
+    "enableJavaScript": true,
+    "enableZoom": true
+  },
+  "social": {
+    "facebook": "https://facebook.com/impactradioandtv",
+    "twitter": "https://twitter.com/impactradioandtv",
+    "instagram": "https://instagram.com/impactradioandtv",
+    "youtube": "https://youtube.com/impactradioandtv",
+    "website": "https://impactradioandtv.com",
+    "email": "info@impactradioandtv.com",
+    "phone": "+1-555-0123"
+  },
+  "features": {
+    "maintenanceMode": false,
+    "forceUpdate": false,
+    "minAppVersion": "1.0.0",
+    "enableAds": true,
+    "enableCast": true,
+    "enableSleepTimer": true,
+    "enableMute": true
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-15T10:30:00Z"
+}
