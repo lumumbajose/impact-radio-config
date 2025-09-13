@@ -4,7 +4,7 @@
       {
         "id": "main",
         "name": "Impact Radio Main",
-        "url": "https://stream.glowfm.nl/glowfm.aac",
+        "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
         "description": "Main radio stream with news and talk shows",
         "genre": "News & Talk",
         "isActive": true
@@ -43,7 +43,7 @@
       {
         "id": "main",
         "name": "Impact TV Main",
-        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
+        "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2_output_0.m3u8?session=KVQQxWsd4HQWdG2wFArex7",
         "description": "Main TV stream with live programming",
         "category": "Live TV",
         "isActive": true
@@ -105,3 +105,4 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
