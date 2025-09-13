@@ -2,96 +2,64 @@
   "radio": {
     "streams": [
       {
-        "id": "main",
-        "name": "Impact Radio",
-        "url": "https://stream.glowfm.nl/glowfm.aac",
-        "description": "Main radio stream with news and talk shows",
-        "genre": "News & Talk",
-        "isActive": true
-      },
-      {
-        "id": "backup",
-        "name": "Impact Radio Backup",
-        "url": "https://stream.example.com/stream",
-        "description": "Backup radio stream (will be enhanced automatically)",
-        "genre": "Mixed",
-        "isActive": true
-      },
-      {
-        "id": "test",
-        "name": "Test Stream",
-        "url": "https://stream.example.com/stream.mp3",
-        "description": "Test stream with explicit .mp3 extension",
-        "genre": "Test",
-        "isActive": true
-      },
-      {
-        "id": "pearlfm",
-        "name": "Pearl FM",
+        "id": "main_stream",
+        "name": "Impact Radio Main",
         "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
-        "description": "Pearl FM proxy stream",
+        "description": "Main radio stream",
+        "genre": "Music",
+        "isActive": true
+      },
+      {
+        "id": "backup_stream",
+        "name": "Impact Radio Backup",
+        "url": "https://example.com/backup.mp3",
+        "description": "Backup radio stream",
         "genre": "Music",
         "isActive": true
       }
     ],
-    "defaultStream": "main",
+    "defaultStream": "https://dc4.serverse.com/proxy/pearlfm/stream",
     "autoPlay": true,
     "showMetadata": true
   },
   "tv": {
     "streams": [
       {
-        "id": "main",
+        "id": "main_tv",
         "name": "Impact TV Main",
-        "url": "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/720p-vtt/index.m3u8",
-        "description": "Main TV stream with live programming",
-        "category": "Live TV",
-        "isActive": true
-      },
-      {
-        "id": "backup",
-        "name": "Impact TV Backup",
-        "url": "https://stream.example.com/tv/backup",
-        "description": "Backup TV stream",
-        "category": "Live TV",
+        "url": "https://example.com/tv/stream.m3u8",
+        "description": "Main TV stream",
+        "category": "Entertainment",
         "isActive": true
       }
     ],
-    "defaultStream": "main",
+    "defaultStream": "https://example.com/tv/stream.m3u8",
     "autoPlay": true,
     "showControls": true
   },
   "webview": {
     "urls": [
       {
-        "id": "main",
+        "id": "main_website",
         "name": "Impact Website",
-        "url": "https://www.follow256.com",
-        "description": "Main website with news and information",
-        "category": "Official",
-        "isActive": true
-      },
-      {
-        "id": "news",
-        "name": "News Portal",
-        "url": "https://news.example.com",
-        "description": "Latest news and updates",
-        "category": "News",
+        "url": "https://impactradioandtv.com",
+        "description": "Main website",
+        "category": "Information",
         "isActive": true
       }
     ],
-    "defaultUrl": "main",
+    "defaultUrl": "https://impactradioandtv.com",
     "enableJavaScript": true,
     "enableZoom": true
   },
   "social": {
-    "facebook": "https://www.facebook.com/joe.Dveloper/",
+    "facebook": "https://facebook.com/impactradioandtv",
     "twitter": "https://twitter.com/impactradioandtv",
     "instagram": "https://instagram.com/impactradioandtv",
-    "youtube": "https://youtube.com/",
-    "website": "https://www.follow256.com",
+    "youtube": "https://youtube.com/impactradioandtv",
+    "website": "https://follow256.com",
     "email": "info@impactradioandtv.com",
-    "phone": "+39-389-652 0141"
+    "phone": "+1-555-0123"
   },
   "features": {
     "maintenanceMode": true,
@@ -105,10 +73,3 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
-
-
-
-
-
-
-
