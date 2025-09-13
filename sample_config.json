@@ -80,12 +80,13 @@
   "features": {
     "maintenanceMode": false,
     "forceUpdate": false,
-    "minAppVersion": "1.0.0",
+    "minAppVersion": "1.0.1",
     "enableAds": true,
     "enableCast": true,
     "enableSleepTimer": true,
     "enableMute": true
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
