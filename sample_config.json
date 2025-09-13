@@ -4,7 +4,7 @@
       {
         "id": "main",
         "name": "Impact Radio ",
-        "url": "https://stream.glowfm.nl/glowfm.aac",
+        "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
         "description": "The best Radio and Tv app",
         "genre": "News & Talk",
         "isActive": true
@@ -27,7 +27,7 @@
       {
         "id": "main",
         "name": "Impact TV Main",
-        "url": "https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8",
+        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v1a1/mono.m3u8",
         "description": "Main TV stream with live programming",
         "category": "Live TV",
         "isActive": true
