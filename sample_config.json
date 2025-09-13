@@ -4,7 +4,7 @@
       {
         "id": "main",
         "name": "Impact Radio ",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
+        "url": "https://stream.glowfm.nl/glowfm.aac",
         "description": "The best Radio and Tv app",
         "genre": "News & Talk",
         "isActive": true
@@ -89,5 +89,6 @@
   "version": "1.0.1",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
 
 
