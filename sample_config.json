@@ -4,9 +4,10 @@
       {
         "id": "main",
         "name": "Impact Radio Main",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream.mp3",
+        "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
         "description": "Main radio stream with news and talk shows",
         "genre": "News & Talk",
+        "backgroundImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1200&h=800&fit=crop&crop=center",
         "isActive": true
       },
       {
@@ -15,6 +16,7 @@
         "url": "https://stream.example.com/stream",
         "description": "Backup radio stream (will be enhanced automatically)",
         "genre": "Mixed",
+        "backgroundImage": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?w=1200&h=800&fit=crop&crop=center",
         "isActive": true
       },
       {
@@ -23,14 +25,16 @@
         "url": "https://stream.example.com/stream.mp3",
         "description": "Test stream with explicit .mp3 extension",
         "genre": "Test",
+        "backgroundImage": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=1200&h=800&fit=crop&crop=center",
         "isActive": true
       },
       {
         "id": "pearlfm",
         "name": "Pearl FM",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream.mp3",
+        "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
         "description": "Pearl FM proxy stream",
         "genre": "Music",
+        "backgroundImage": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?w=1200&h=800&fit=crop&crop=center",
         "isActive": true
       }
     ],
@@ -43,7 +47,7 @@
       {
         "id": "main",
         "name": "Impact TV Main",
-        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v1a1/mono.m3u8",
+        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
         "description": "Main TV stream with live programming",
         "category": "Live TV",
         "isActive": true
@@ -105,5 +109,3 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
-
-
