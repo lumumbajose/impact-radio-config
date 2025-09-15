@@ -94,7 +94,7 @@
     "phone": "+1-555-0123"
   },
   "features": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "forceUpdate": false,
     "minAppVersion": "1.0.0",
     "enableAds": true,
@@ -105,3 +105,4 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
