@@ -4,7 +4,7 @@
       {
         "id": "main",
         "name": "Impact Radio Main",
-        "url": "https://stream.glowfm.nl/glowfm.aac",
+        "url": "https://a7.asurahosting.com:7790/radio.mp3",
         "description": "Main radio stream with news and talk shows",
         "genre": "News & Talk",
         "backgroundImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1200&h=800&fit=crop&crop=center",
@@ -41,14 +41,14 @@
     "defaultStream": "main",
     "autoPlay": true,
     "showMetadata": true,
-    "showBackgroundImage": true
+    "showBackgroundImage": false
   },
   "tv": {
     "streams": [
       {
         "id": "main",
         "name": "Impact TV Main",
-        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
+        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v1a1/mono.m3u8",
         "description": "Main TV stream with live programming",
         "category": "Live TV",
         "isActive": true
@@ -110,4 +110,5 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
 
