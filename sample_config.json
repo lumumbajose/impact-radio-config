@@ -4,7 +4,7 @@
       {
         "id": "main",
         "name": "Impact Radio Main",
-        "url": "https://s26.myradiostream.com:19546/stream",
+        "url": "https://stream-177.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVkcDQyMzhiUTNpWTNJU0tFc2Z3T3ciLCJpYXQiOjE3NTgzMDM4MzMsImV4cCI6MTc1ODMwMzg5M30.A9IQ06lmlUwWA65r0Ij7MsS4U2PM5rQPmNmDh_cR7ik",
         "description": "Main radio stream with news and talk shows",
         "genre": "News & Talk",
         "isActive": true
@@ -105,4 +105,5 @@
   "version": "1.0.0",
   "lastUpdated": "2024-01-15T10:30:00Z"
 }
+
 
